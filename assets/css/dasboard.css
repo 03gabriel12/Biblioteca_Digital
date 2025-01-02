@@ -1,0 +1,13 @@
+/* header dasboard */
+.header-dasoard {
+  padding: 1rem;
+}
+.header-dasoard .container-header .title {
+  flex: 1;
+  font-size: 1.5em;
+  font-weight: bolder;
+}
+.header-dasoard .container-header .user-name {
+  font-size: 1.3em;
+  font-weight: 600;
+}
